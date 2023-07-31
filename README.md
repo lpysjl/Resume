@@ -9,14 +9,14 @@
 
 ## 自我描述
 
-我是一名热爱**开源**的安卓开发者，喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。我追求开发**高质量**及拥有**良好用户体验**的应用，对于这方面我编写了安卓开发的规范性文档 **[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)** ，并把其发布到 GitHub 颇受好评；同样，我注重**开发效率**及**知识的累积**，在 GitHub 拥有 **22k+ stars** 的安卓工具类项目 **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** ，它可以极大地帮助安卓开发者们提升效率；当然，作为一名程序员，我也很是注重数据结构和算法，在 GitHub 上建立了自己的 LeetCode 题解 **[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)** ，除此之外我还具有白板编程的能力。
+拥有4年Android开发经验，涉及Framework到Android应用层。
 
 
 ## 工作经验
 
-### **Android 开发工程师** [阿里巴巴](https://www.alibabagroup.com)
+### **Android 开发工程师** [南京欣威视通信息科技股份有限公司](https://www.njxwst.com/)
 
-*2018/10 - 至今*
+*2023/6 - 至今*
 
 在「支付宝技术部-中台技术部」下主要负责 Android 端的 AntUI 组件的维护，主要内容如下：
 
@@ -25,9 +25,9 @@
 * 负责支付宝首页小程序收藏下拉控件的开发。
 
 
-### **高级 Android 开发工程师** [51 信用卡](https://www.u51.com)
+### **Android 开发工程师** [南京泡一泡信息技术有限公司](https://www.zhipin.com/gongsi/cdcbfb741232ac8d1XN50tm_GQ~~.html)
 
-*2018/03 - 2018/08*
+*2022/09 - 2023/06*
 
 在「Android 客户端基础架构组」下主要负责提升工程效率和新技术的引进，主要内容如下：
 
@@ -39,29 +39,26 @@
 * 为团队开发工程模板插件以提升开发效率和开发规范。
 
 
-### **高级 Android 开发工程师** [吉利亿咖通科技有限公司](http://www.ecarx.com.cn)
+### **Android 开发工程师** [南京一键未来信息科技有限公司](https://baike.baidu.com/item/%E5%8D%97%E4%BA%AC%E4%B8%80%E9%94%AE%E6%9C%AA%E6%9D%A5%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/51313312)
 
-*2017/02 - 2018/03*
+*2020/07 - 2022/09*
 
-在「数字座舱 App 部门」中作为基础组件开发的核心成员，其主要职责如下：
+在「少年志」中作为开发的核心成员，其主要职责如下：
 
-* 为开发团队书写了安卓开发规范文档，更有利于维护项目，促进成员之间 CR，提升团队开发效率；
-* 提取开发中的公共组件模块，合理分类并封装它们，提升组件复用性，减少团队任务量从而提升开发效率；
-* 结合 [marx/xlog](https://github.com/Tencent/mars) 开发了团队日志框架，日志性能大幅提高，查看日志更为方便，开发效率大为提升；
-* 为团队封装公共提示库，使其提示更为规范统一，减少团队任务量从而提升开发效率；
-* 为各应用提供公共埋点库，减少团队任务量从而提升开发效率，使埋点统计更为方便。
+* 为开发团队书写了安卓开发规范文档，更有利于维护项目，提升团队开发效率；
+* 提取开发中的公共组件模块，合理分类并封装它们，提升组件复用性，提升开发效率；
+* 参与项目的搭建，选用合适的架构，合理分包，使可读性更好，促进团队开发效率；
+
 
 ### **Android 开发工程师** [联想](https://investor.lenovo.com/sc/about/profile.php)
 
 
-*2019/06 - 2017/02*
+*2019/09 - 2020/07*
 
 在安卓团队中主要从事Launcher方面的开发，其主要经历如下：
 
-* 参与项目的搭建，选用合适的架构，合理分包，使可读性更好，促进团队开发效率；
 * 参与多个项目的用户界面设计，可灵活运用原生组件，追求良好的用户体验；
 * 参与项目缺陷解决，日常维护；
-
 
 ## 技能专长
 
@@ -71,21 +68,24 @@
 
 - [Java](https://www.java.com)^†^
 - [Kotlin](http://kotlinlang.org)^†^
-- [Python](https://www.python.org)
 - [C/C++](http://www.cplusplus.com)
-- [Shell](http://www.linuxshell.it)
 - [JavaScript](https://www.javascript.com)
 - [HTML](https://www.w3.org/html)
 
-
 ### 框架
+
+- MVVM
+- MVI
+- MVP
+- MVX
+
+### 三方库
 
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid)^†^
 - [EventBus](https://github.com/greenrobot/EventBus)^†^
 - [Retrofit](https://github.com/square/retrofit)^†^
 - [Gson](https://github.com/google/gson)^†^
 - [Glide](https://github.com/bumptech/glide)^†^
-- [Dagger2](https://github.com/google/dagger)
 
 
 ### 工具软件
