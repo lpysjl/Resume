@@ -4,6 +4,7 @@
 
 - 联系电话: +86 166-0121-2204
 - 电子邮箱: [lipeiyang24@gmail.com](lipeiyang24@gmail.com)
+- 我的博客:[https://lpysjl.github.io](https://lpysjl.github.io)
 - GitHub: [https://github.com/lpysjl](https://github.com/lpysjl)
 
 
