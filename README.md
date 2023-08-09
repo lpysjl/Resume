@@ -17,11 +17,10 @@
 
 *2023/6 - 至今*
 
-在「支付宝技术部-中台技术部」下主要负责 Android 端的 AntUI 组件的维护，主要内容如下：
+在应用软件部下主要负责 Android 端的 Framework 内容修改，主要内容如下：
 
 - 负责客制Framework层开发
-- 负责
-- 负责支付宝首页小程序收藏下拉控件的开发。
+- 包括不限于 Launcher、Settings、SystemUI 样式功能调整
 
 ### **Android 开发工程师** [南京泡一泡信息技术有限公司](https://www.zhipin.com/gongsi/cdcbfb741232ac8d1XN50tm_GQ~~.html)
 
@@ -31,10 +30,9 @@
 
 - 统一 Android 公共工具库以提升团队开发效率；
 - 状态栏刘海适配；
-- 封装统一线程池来优化应用内存使用；
-- Android P 新特性分享供团队学习研究；
-- 为业务团队提供良好 SDK 提升业务开发效率；
-- 为团队开发工程模板插件以提升开发效率和开发规范。
+- 数据库迁移到Room；
+- 使用协程重构Retrofit网络请求；
+- RTC音视频；
 
 
 ### **Android 开发工程师** [南京一键未来信息科技有限公司](https://baike.baidu.com/item/%E5%8D%97%E4%BA%AC%E4%B8%80%E9%94%AE%E6%9C%AA%E6%9D%A5%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/51313312)
