@@ -9,16 +9,17 @@
 
 ## 自我描述
 
-拥有4年Android开发经验，涉及到Framework、App开发。熟练掌握Java、Kotlin语言，熟悉常用开发框架。
+拥有5年Android开发经验，涉及到Framework、App开发。熟练掌握Java、Kotlin语言, 可以使用C，C++。熟悉常用开发框架。
 
 ## 工作经验
 
-### **Android 开发工程师** [芜湖盟博科技有限公司](https://www.aiv2x.com/)
+### **Android 开发工程师、系统开发工程师** [芜湖盟博科技有限公司](https://www.aiv2x.com/)
 
 *2023/8 - 至今*
 
 1. 在安卓部门负责SystemUI任务开发
 2. 在交付部门负责项目交付
+3. 在平台部门负责Carservice、VHal开发
 
 - SystemUI需求开发
 - 交付部门基本项目的所有app都有参与
@@ -88,15 +89,15 @@
 ### 三方库
 
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid)^†^
-- [EventBus](https://github.com/greenrobot/EventBus)^†^
 - [Retrofit](https://github.com/square/retrofit)^†^
 - [Gson](https://github.com/google/gson)^†^
 - [Glide](https://github.com/bumptech/glide)^†^
-
+- [EventBus](https://github.com/greenrobot/EventBus)
 
 ### 工具软件
 
 - [Mac OS X](http://apple.com/macosx)^†^
+- [Ubantu](https://ubuntu.com/)
 - [Android Studio](https://developer.android.com/studio/index.html?hl=zh-cn)^†^
 - [Git](https://git-scm.com)^†^
 - [Tabby](https://tabby.sh/)^†^
