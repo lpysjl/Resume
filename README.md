@@ -23,6 +23,7 @@
 
 - SystemUI需求开发
 - 交付部门基本项目的所有app都有参与
+- CarService任务开发
 
 ### **Android 开发工程师** [南京欣威视通信息科技股份有限公司](https://www.njxwst.com/)
 
