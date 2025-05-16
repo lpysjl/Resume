@@ -8,14 +8,15 @@
 - GitHub: [https://github.com/lpysjl](https://github.com/lpysjl)
 
 ## 自我描述
-
-拥有5年Android开发经验，涉及到Framework、App开发。熟练掌握Java、Kotlin语言, 可以使用C，C++。熟悉常用开发框架。
+拥有5年Android开发经验，涉及到Framework上层、App开发。熟练掌握Java、Kotlin语言, 可以使用C，C++。熟悉常用开发框架。
 
 ## 工作经验
 
 ### **Android 开发工程师、系统开发工程师** [芜湖盟博科技有限公司](https://www.aiv2x.com/)
 
-*2023/8 - 至今*
+*2023/8 -| 至今*
+
+主要项目有捷途X70、X50，T1N、 03T相关车型座舱项目
 
 1. 在安卓部门负责SystemUI任务开发
 2. 在交付部门负责项目交付
@@ -29,6 +30,7 @@
 
 *2023/6 - 2023/8*
 
+
 在应用软件部下主要负责 Android 端的 Framework 内容修改，主要内容如下：
 
 - 负责客制Framework层开发
@@ -37,6 +39,8 @@
 ### **Android 开发工程师** [南京泡一泡信息技术有限公司](https://www.zhipin.com/gongsi/cdcbfb741232ac8d1XN50tm_GQ~~.html)
 
 *2022/09 - 2023/06*
+
+项目：泡聊吧（社交平台）
 
 在「Android 客户端基础架构组」下主要负责提升工程效率和新技术的引进，主要内容如下：
 
@@ -51,6 +55,8 @@
 
 *2020/07 - 2022/09*
 
+项目：少年志（杨子晚报媒体平台）
+
 在「少年志」中作为开发的核心成员，其主要职责如下：
 
 - 为开发团队书写了安卓开发规范文档，更有利于维护项目，提升团队开发效率；
@@ -60,6 +66,7 @@
 
 ### **Android 开发工程师** [联想](https://investor.lenovo.com/sc/about/profile.php)
 
+项目：Moto Razr 5G、 Razr 50 60
 
 *2019/09 - 2020/07*
 
